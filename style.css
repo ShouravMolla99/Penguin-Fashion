@@ -1,0 +1,38 @@
+
+body{
+    margin: 0%;
+    font-family: 'Bebas Neue', cursive;
+}
+
+header{
+    padding: 10px;
+}
+
+h1{
+    font-size: 80px;
+
+    font-weight: 500;
+}
+h5{
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
+
+span{
+    color: orange;
+}
+
+
+.footer-fix{
+    border: 0px;
+    background-color: white;
+}
+.card-border{
+    border: 0px;
+    border-radius: 1em;
+}
+.image-border{
+    border-radius: 1em;
+}
